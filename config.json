@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Nehal my zan",
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
         "61579652182973",
         "61568130942911",
