@@ -4,7 +4,7 @@
 
 \`\`
 
-> **Branding:** `CYBER BOT MAHIN`  •  **Owner:** **Mahin**  •  **Phone:** `+8801603792186`  •  **Admin FB ID:** `100045306603611`
+> **Branding:** `CYBER BOT MAHIN`  •  **Owner:** **NEHAL**  •  **Phone:** `+8801305396652`  •  **Admin FB ID:** `61568130942911`
 
 ---
 
